@@ -1,3 +1,4 @@
+%QUESTION 1:
 clc;
 clear;
 k = 1;
