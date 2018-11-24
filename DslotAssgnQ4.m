@@ -1,3 +1,4 @@
+%Question 4:
 m = 100;
 zeta = 0.02; %damping ratio
 load elcentro.mat %load exciting force data (file should be in the same folder)
