@@ -1,3 +1,4 @@
+%QUESTION 8:
 clear all
 load elcentro.mat
 
