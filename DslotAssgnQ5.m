@@ -1,5 +1,6 @@
-
-clc
+%QUESTION 5:
+clc;
+clear;
 load elcentro.mat
 y = p;
 L = length(t);
