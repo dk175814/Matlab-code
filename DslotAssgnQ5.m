@@ -1,10 +1,5 @@
 
-%[acf,lags,bounds] = autocorr(p);
-%T = 1:length(acf);
-%plot(T,acf);
-%x = 1:10;
-%y=4*sin(x);
-%autocorr(y,'Numlags',30)
+clc
 load elcentro.mat
 y = p;
 L = length(t);
